@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Holler",
+  "base_artist": "Girls' Generation-TTS",
+  "createdAt": "2026-01-02T06:58:43.664607Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Deeper Than the Holler",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/01_Deeper_Than_the_Holler_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Deeper Than the Holler (Album Version)",
+      "artist": "Randy Travis",
+      "has_synced": true,
+      "path": "select/02_Deeper_Than_the_Holler_(Album_Version)_Randy_Travis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Holler",
+      "artist": "Girls' Generation - TTS",
+      "has_synced": true,
+      "path": "select/03_Holler_Girls'_Generation_-_TTS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Inner City Blues (Make Me Wanna Holler)",
+      "artist": "Marvin Gaye",
+      "has_synced": true,
+      "path": "select/04_Inner_City_Blues_(Make_Me_Wanna_Holler)_Marvin_Gaye.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Holler",
+      "artist": "Ginuwine",
+      "has_synced": true,
+      "path": "select/05_Holler_Ginuwine.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Holler (Interlude)",
+      "artist": "Ginuwine",
+      "has_synced": true,
+      "path": "select/06_Holler_(Interlude)_Ginuwine.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Holler",
+      "artist": "NG3",
+      "has_synced": false,
+      "path": "select/07_Holler_NG3.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Holler",
+      "artist": "Spice Girls",
+      "has_synced": true,
+      "path": "select/08_Holler_Spice_Girls.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Inner City Blues (Make Me Wanna Holler)",
+      "artist": "Marvin Gaye",
+      "has_synced": true,
+      "path": "select/09_Inner_City_Blues_(Make_Me_Wanna_Holler)_Marvin_Gaye.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Holler If Ya' Hear Me",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/10_Holler_If_Ya'_Hear_Me_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Holler If Ya' Hear Me",
+      "artist": "2Pac",
+      "has_synced": true,
+      "path": "select/11_Holler_If_Ya'_Hear_Me_2Pac.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Holler at Ya Boy",
+      "artist": "Attila",
+      "has_synced": true,
+      "path": "select/12_Holler_at_Ya_Boy_Attila.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Where Light Divides the Holler",
+      "artist": "Knocked Loose",
+      "has_synced": true,
+      "path": "select/13_Where_Light_Divides_the_Holler_Knocked_Loose.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Holler",
+      "artist": "Spice Girls",
+      "has_synced": true,
+      "path": "select/14_Holler_Spice_Girls.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Holler",
+      "artist": "Girls' Generation - TTS",
+      "has_synced": false,
+      "path": "select/pl_01_Holler_Girls'_Generation_-_TTS.txt"
+    }
+  ]
+}
